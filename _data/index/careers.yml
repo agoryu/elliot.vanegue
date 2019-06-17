@@ -1,0 +1,71 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Sopra Steria
+    i18n: company_a
+  desc:
+    detail: Projet SNCF
+    i18n: company_a_desc
+  date:
+    detail: Jan. 2019
+    i18n: company_a_date
+  job:
+    detail: Développeur NodeJS, AngularJS, ReactJS
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Sopra Steria
+    i18n: company_a
+  desc:
+    detail: Projet SNCF
+    i18n: company_a_desc
+  date:
+    detail: Oct. 2016
+    i18n: company_a_date
+  job:
+    detail: Développeur Java/J2EE, Primefaces
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Universite Lille 1
+    i18n: company_b
+  desc:
+    detail: Etudiant
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2015
+    i18n: company_b_date
+  job:
+    detail: Spécialité IVI (Image Vision Interaction)
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Universite Lille 1
+    i18n: company_b
+  desc:
+    detail: Etudiant
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2013
+    i18n: company_b_date
+  job:
+    detail: Licence/Master 1
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Universite Lille 1
+    i18n: company_b
+  desc:
+    detail: Etudiant
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2011
+    i18n: company_b_date
+  job:
+    detail: IUT A
+    i18n: company_b_job
+  icon: fa-plus-square
