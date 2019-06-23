@@ -29,16 +29,44 @@
   icon: fa-plus-square
 
 - name:
+    detail: Laboratoire 3D-SAM
+    i18n: company_a
+  desc:
+    detail: Stagiaire
+    i18n: company_a_desc
+  date:
+    detail: Mars - Août. 2016
+    i18n: company_a_date
+  job:
+    detail: Approche sémantique de segmentation et de recherche interactive	par le contenu issu d’une caméra de profondeur (C++)
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
     detail: Universite Lille 1
     i18n: company_b
   desc:
     detail: Etudiant
     i18n: company_b_desc
   date:
-    detail: Sep. 2015
+    detail: Sep. 2014
     i18n: company_b_date
   job:
-    detail: Spécialité IVI (Image Vision Interaction)
+    detail: Master spécialité IVI (Image Vision Interaction)
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: GFI
+    i18n: company_b
+  desc:
+    detail: Stagiaire
+    i18n: company_b_desc
+  date:
+    detail: Avr - Août. 2014
+    i18n: company_b_date
+  job:
+    detail: Développeur Java/J2EE
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -52,9 +80,24 @@
     detail: Sep. 2013
     i18n: company_b_date
   job:
-    detail: Licence/Master 1
+    detail: Licence informatique
     i18n: company_b_job
   icon: fa-plus-square
+
+- name:
+    detail: INSERM U703
+    i18n: company_b
+  desc:
+    detail: Stagiaire
+    i18n: company_b_desc
+  date:
+    detail: Avr - Juil 2013
+    i18n: company_b_date
+  job:
+    detail: Réalisation de l'interface logicielle entre DCMTK et la plateforme de l’unité et Optimisation de la récupération d’informations à partir de fichier DICOM (C++)
+    i18n: company_b_job
+  icon: fa-plus-square
+
 
 - name:
     detail: Universite Lille 1

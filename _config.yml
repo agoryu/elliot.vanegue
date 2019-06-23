@@ -20,7 +20,7 @@ author:  # change following line to your infomation.
   facebook_username: elliot.vanegue  # Leave blank if you don't have now
   twitter_username: agoryu15  # Leave blank if you don't have now
   email: elliot.vanegue@gmail.com  # Leave blank if you don't have now
-  cv: #http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: /static/assets/doc/cv.pdf #http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-nodejs
@@ -28,7 +28,8 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-nodejs
-  desc:   # Describe yourself.
+  #desc: Ingénieur en développement informatique, j'aime découvrir de nouvelles technologies à la recherche de performance et de qualité de code. Cette curiosité s'étend à tous les domaines, et je recherche constament des activitées originales à pratiquer comme le maniement de sabre laser.  # Describe yourself.
+  desc: Ingénieur en développement informatique, je recherche dans une équipe une bonne ambiance et de bonnes pratiques dans l'organisation du travail. Mes expériences passées m'ont apporté une bonne autonomie lorsque j'ai travaillé en laboratoire et une bonne organisation en équipe suite à des projets qui se sont réorientés vers de l'agilité.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
