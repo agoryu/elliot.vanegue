@@ -94,7 +94,7 @@
     detail: Avr - Juil 2013
     i18n: company_b_date
   job:
-    detail: Réalisation de l'interface logicielle entre DCMTK et la plateforme de l’unité et Optimisation de la récupération d’informations à partir de fichier DICOM (C++)
+    detail: <ul><li>Réalisation de l'interface logicielle entre DCMTK et la plateforme de l’unité</li><li>Optimisation de la récupération d’informations à partir de fichier DICOM (C++)</li></ul>
     i18n: company_b_job
   icon: fa-plus-square
 

@@ -1,6 +1,6 @@
 # skills section data
 
-label: Ability
+label: Compétence
 id : cs
 aspects: Java/J2EE, Primefaces, Javascript, ReactJS, AngularJS, Elixir, Phoenix, Unity3D, Godot, Latex, C++
 percentage: 80, 80, 50, 20, 20, 30, 30, 50, 50, 50, 40
