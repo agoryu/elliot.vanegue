@@ -6,6 +6,3 @@
 
 - name: Photographie
   img: /static/assets/img/landing/photo.png
-
-- name: <a href="http://www.ordiretro.fr/">Ordi Retro</a>
-  img: /static/assets/img/landing/ordiretro.jpg
