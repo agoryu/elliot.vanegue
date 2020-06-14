@@ -4,7 +4,21 @@
     detail: Sopra Steria
     i18n: company_a
   desc:
-    detail: Projet SNCF
+    detail: Développeur sur l'application de gestion de location de Nexity dans une équipe de dix personnes.
+    i18n: company_a_desc
+  date:
+    detail: Juin. 2020
+    i18n: company_a_date
+  job:
+    detail: Développeur Java, ReactJS, AWS, Azure
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Sopra Steria
+    i18n: company_a
+  desc:
+    detail: Développeur sur une application de gestion de référentiel pour la SNCF. Mise en place d'une organisation agile dans une équipe de 3 personnes.
     i18n: company_a_desc
   date:
     detail: Jan. 2019
@@ -18,7 +32,7 @@
     detail: Sopra Steria
     i18n: company_a
   desc:
-    detail: Projet SNCF
+    detail: Développeur sur une application de gestion de travaux pour la SNCF dans une équipe de 5-10 personnes.
     i18n: company_a_desc
   date:
     detail: Oct. 2016
@@ -32,13 +46,13 @@
     detail: Laboratoire 3D-SAM
     i18n: company_a
   desc:
-    detail: Stagiaire
+    detail: Stagiaire sur un sujet concernant l'Approche sémantique de segmentation et de recherche interactive	par le contenu issu d’une caméra de profondeur.
     i18n: company_a_desc
   date:
     detail: Mars - Août. 2016
     i18n: company_a_date
   job:
-    detail: Approche sémantique de segmentation et de recherche interactive	par le contenu issu d’une caméra de profondeur (C++)
+    detail: Développeur C++
     i18n: company_a_job
   icon: fa-plus-square
 
