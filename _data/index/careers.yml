@@ -10,7 +10,7 @@
     detail: Juin. 2020
     i18n: company_a_date
   job:
-    detail: Développeur Java, ReactJS, AWS, Azure
+    detail: <ul><li>Java</li><li>ReactJS</li><li>AWS</li><li>Azure</li></ul>
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -18,13 +18,13 @@
     detail: Sopra Steria
     i18n: company_a
   desc:
-    detail: Développeur sur une application de gestion de référentiel pour la SNCF. Mise en place d'une organisation agile dans une équipe de 3 personnes.
+    detail: <ul><li>Développeur sur une application de gestion de référentiel pour la SNCF.</li><li>Mise en place d'une organisation agile dans une équipe de 3 personnes.</li><li>Analyse et conception du besoin client</li></ul>
     i18n: company_a_desc
   date:
     detail: Jan. 2019
     i18n: company_a_date
   job:
-    detail: Développeur NodeJS, AngularJS, ReactJS
+    detail: <ul><li>NodeJS</li><li>AngularJS</li><li>ReactJS</li></ul>
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -32,13 +32,13 @@
     detail: Sopra Steria
     i18n: company_a
   desc:
-    detail: Développeur sur une application de gestion de travaux pour la SNCF dans une équipe de 5-10 personnes.
+    detail: <ul><li>Développeur sur une application de gestion de travaux pour la SNCF dans une équipe de 5-10 personnes.</li><li>Réalisation de template PDF avec Jasper.</li><li>Mise en place d’une connexion avec le gestionnaire de document GED.</li></ul>
     i18n: company_a_desc
   date:
     detail: Oct. 2016
     i18n: company_a_date
   job:
-    detail: Développeur Java/J2EE, Primefaces
+    detail: <ul><li>Java/J2EE/Spring</li><li>Primefaces</li></ul>
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -52,7 +52,7 @@
     detail: Mars - Août. 2016
     i18n: company_a_date
   job:
-    detail: Développeur C++
+    detail: C++
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -80,7 +80,7 @@
     detail: Avr - Août. 2014
     i18n: company_b_date
   job:
-    detail: Développeur Java/J2EE
+    detail: Java/J2EE/Spring
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -102,13 +102,13 @@
     detail: INSERM U703
     i18n: company_b
   desc:
-    detail: Stagiaire
+    detail: Stagiaire sur <ul><li>La réalisation de l'interface logicielle entre DCMTK et la plateforme de l’unité</li><li>L'ptimisation de la récupération d’informations à partir de fichier DICOM</li></ul> 
     i18n: company_b_desc
   date:
     detail: Avr - Juil 2013
     i18n: company_b_date
   job:
-    detail: <ul><li>Réalisation de l'interface logicielle entre DCMTK et la plateforme de l’unité</li><li>Optimisation de la récupération d’informations à partir de fichier DICOM (C++)</li></ul>
+    detail: C++
     i18n: company_b_job
   icon: fa-plus-square
 
