@@ -18,7 +18,7 @@
     detail: Sopra Steria
     i18n: company_a
   desc:
-    detail: <ul><li>Développeur sur une application de gestion de référentiel pour la SNCF.</li><li>Mise en place d'une organisation agile dans une équipe de 3 personnes.</li><li>Analyse et conception du besoin client</li></ul>
+    detail: <ul><li>Développeur sur une application de gestion de référentiel pour la SNCF.</li><li>Mise en place d'une organisation agile dans une équipe de 3 personnes.</li><li>Analyse et conception du besoin client</li><li>Mise en place du modèle Netex pour les données de gare.</li></ul>
     i18n: company_a_desc
   date:
     detail: Jan. 2019
@@ -32,7 +32,7 @@
     detail: Sopra Steria
     i18n: company_a
   desc:
-    detail: <ul><li>Développeur sur une application de gestion de travaux pour la SNCF dans une équipe de 5-10 personnes.</li><li>Réalisation de template PDF avec Jasper.</li><li>Mise en place d’une connexion avec le gestionnaire de document GED.</li></ul>
+    detail: <ul><li>Développeur sur une application de gestion de travaux pour la SNCF dans une équipe de 5-10 personnes.</li><li>Réalisation de template PDF avec Jasper.</li><li>Mise en place d’une connexion avec le gestionnaire de document GED.</li><li>Collaboration avec une équipe Gfi pour la mise en place de dépêche sur l’application.</li></ul>
     i18n: company_a_desc
   date:
     detail: Oct. 2016
