@@ -2,5 +2,7 @@
 
 label: Compétence
 id : cs
-aspects: Java/J2EE, Primefaces, Javascript, ReactJS, AngularJS, Elixir, Phoenix, Unity3D, Godot, Latex, C++, Angular
-percentage: 70, 60, 60, 20, 20, 30, 30, 30, 30, 50, 20, 30
+#aspects: Java/J2EE, Primefaces, Javascript, ReactJS, AngularJS, Elixir, Phoenix, Unity3D, Godot, Latex, C++, Angular
+#percentage: 70, 60, 60, 20, 20, 30, 30, 30, 30, 50, 20, 30
+aspects: Java/J2EE, Javascript, ReactJS, Elixir, Unity3D, Godot, Gimp, Git
+percentage: 70, 40, 20, 20, 10, 70, 40, 70

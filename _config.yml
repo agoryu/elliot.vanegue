@@ -14,22 +14,22 @@ author:  # change following line to your infomation.
   name: Blog  # Be used at blog posts' author.
   first_name: Elliot  # Be used at index page about me section.
   last_name: Vanegue  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/elliot.JPG  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/elliot.jpg  # upload your avatar at directory and edit it.
   github_username: agoryu  # Leave blank if you don't have now
   linkedin_id: elliot-vanegue-0b64a2189 # Leave blank if you don't have now
-  facebook_username: elliot.vanegue  # Leave blank if you don't have now
+  #facebook_username: elliot.vanegue  # Leave blank if you don't have now
   twitter_username: agoryu15  # Leave blank if you don't have now
   email: elliot.vanegue@protonmail.com  # Leave blank if you don't have now
-  cv: /static/assets/doc/cv.pdf #http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  itch_username: agoryu
+  #cv: /static/assets/doc/cv.pdf #http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-nodejs
+    - name: godot-icon
     - name: fa-linux
   skill_icon2:
     - name: fa-linux
-    - name: icon-nodejs
-  #desc: Ingénieur en développement informatique, j'aime découvrir de nouvelles technologies à la recherche de performance et de qualité de code. Cette curiosité s'étend à tous les domaines, et je recherche constament des activitées originales à pratiquer comme le maniement de sabre laser.  # Describe yourself.
-  desc: Ingénieur en développement informatique, je porte une attention particulière au bien-être de l'équipe. Mes expériences passées en laboratoire m'ont permis d'avoir une bonne autonomie et ont fait progresser mon esprit critique. 
+    - name: godot-icon
+  desc: Ingénieur en développement informatique, je porte une attention particulière au bien-être de l'équipe. Cela m'a poussé à devenir Agile master sur certain de mes projets. Je suis passionné par les jeux vidéo, les jeux de plateau et jeux de rôle. Je m'intéresse à la création de jeux vidéo sur mon temps libre.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

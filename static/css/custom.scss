@@ -1,7 +1,6 @@
 ---
 
 ---
-
 @import "search";
 @import "pygments";
 @import "open_sans";
@@ -19,4 +18,27 @@
 
 .description {
   font-size: 15px !important;
+}
+
+.godot-icon {
+  background: url('/elliot.vanegue/static/assets/img/landing/icons8-godot-32.png');
+  height: 32px;
+  width: 32px;
+  opacity: 0.5;
+  display: block;
+}
+
+.itch-icon {
+  background: url('/elliot.vanegue/static/assets/img/landing/itch-io.png');
+  height: 16px;
+  width: 16px;
+  vertical-align: middle;
+}
+
+.icon-chess {
+  background: url('/elliot.vanegue/static/assets/img/landing/chess-solid.svg');
+  height: 32px;
+  width: 32px;
+  opacity: 0.1;
+  vertical-align: middle;
 }

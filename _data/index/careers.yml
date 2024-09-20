@@ -1,16 +1,58 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Nextoo
+    i18n: company_a
+  desc:
+    detail: Maintenance et réalisation de nouvelles fonctionnalités de la plateforme Fast
+    i18n: company_a_desc
+  date:
+    detail: Aout. 2023
+    i18n: company_a_date
+  job:
+    detail: <ul><li>Java</li><li>Docker</li><li>Postgres</li></ul>
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Nextoo
+    i18n: company_a
+  desc:
+    detail: <ul><li>Réalisation d’amélioration de la plateforme de gestion de sinistre auto pour Axa et Direct Assurance</li><li>Rôle de développeur / Scrum Master</li><li>Animateur d’une instance d’échange entre les scrum master de la tribu (chapter scrum)</li><li>Aide à la création d’un workflow de besoins commun sur l’ensemble de la tribu avec des coach agile</li></ul>
+    i18n: company_a_desc
+  date:
+    detail: Sep. 2021
+    i18n: company_a_date
+  job:
+    detail: <ul><li>Gosu</li><li>Azure</li><li>Kibana</li><li>Easybi</li><li>Jira</li><li>Postgres</li></ul>
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
     detail: Sopra Steria
     i18n: company_a
   desc:
-    detail: Développeur sur l'application de gestion de location de Nexity dans une équipe de dix personnes.
+    detail: <ul><li>Maintenance d’une application de modulation de cotisation pour les travailleurs indépendants pour ACOSS.</li><li>Mise en place d'une documentation sur l'application</li><li>Correction et refactorisation du code</li></ul>
+    i18n: company_a_desc
+  date:
+    detail: Nov. 2020
+    i18n: company_a_date
+  job:
+    detail: <ul><li>Java</li><li>C/C++</li><li>Shell</li><li>Postgres</li></ul>
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Sopra Steria
+    i18n: company_a
+  desc:
+    detail: <ul><li>Développeur sur l'application de gestion de location de Nexity dans une équipe de dix personnes.</li><li>Mise en place de nouveaux écrans</li></ul>
     i18n: company_a_desc
   date:
     detail: Juin. 2020
     i18n: company_a_date
   job:
-    detail: <ul><li>Java</li><li>ReactJS</li><li>AWS</li><li>Azure</li></ul>
+    detail: <ul><li>Java</li><li>ReactJS</li><li>AWS</li><li>Azure</li><li>Postgres</li></ul>
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -24,7 +66,7 @@
     detail: Jan. 2019
     i18n: company_a_date
   job:
-    detail: <ul><li>NodeJS</li><li>AngularJS</li><li>ReactJS</li></ul>
+    detail: <ul><li>NodeJS</li><li>AngularJS</li><li>ReactJS</li><li>Redux</li><li>Mongo</li></ul>
     i18n: company_a_job
   icon: fa-plus-square
 
@@ -38,7 +80,7 @@
     detail: Oct. 2016
     i18n: company_a_date
   job:
-    detail: <ul><li>Java/J2EE/Spring</li><li>Primefaces</li></ul>
+    detail: <ul><li>Java/J2EE/Spring</li><li>Primefaces</li><li>Postgres</li></ul>
     i18n: company_a_job
   icon: fa-plus-square
 

@@ -1,8 +1,11 @@
-- name: <a href="http://ls4u.net/">LS4U</a>
-  img: /static/assets/img/landing/LS4U.png
+#- name: <a href="http://ls4u.net/">LS4U</a>
+#  img: /static/assets/img/landing/LS4U.png
 
 - name: Jeux vidéo
   img: /static/assets/img/landing/videogame.png
 
-- name: Photographie
-  img: /static/assets/img/landing/photo.png
+- name: Vélo
+  img: /static/assets/img/landing/velo.png
+
+#- name: Photographie
+#  img: /static/assets/img/landing/photo.png
