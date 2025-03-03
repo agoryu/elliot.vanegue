@@ -32,8 +32,11 @@
                     {% if site.author.facebook_username %}
                     <li><a href="https://www.facebook.com/{{ site.author.facebook_username }}" target="blank"><i class="fa fa-facebook"></i></a></li>
                     {% endif %}
-                    {% if site.author.twitter_username %}
+                    <!-- {% if site.author.twitter_username %}
                     <li><a href="https://twitter.com/{{ site.author.twitter_username }}" target="blank"><i class="fa fa-twitter"></i></a></li>
+                    {% endif %} -->
+                    {% if site.author.bluesky_username %}
+                    <li><a href="https://bsky.app/profile/{{ site.author.bluesky_username }}.bsky.social" target="blank"><i class="fa bluesky"></i></a></li>
                     {% endif %}
                     {% if site.author.itch_username %}
                     <li><a href="https://{{ site.author.itch_username }}.itch.io" target="blank"><i class="fa itch-icon"></i></a></li>

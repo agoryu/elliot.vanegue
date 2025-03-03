@@ -18,8 +18,9 @@ author:  # change following line to your infomation.
   github_username: agoryu  # Leave blank if you don't have now
   linkedin_id: elliot-vanegue-0b64a2189 # Leave blank if you don't have now
   #facebook_username: elliot.vanegue  # Leave blank if you don't have now
-  twitter_username: agoryu15  # Leave blank if you don't have now
-  email: elliot.vanegue@protonmail.com  # Leave blank if you don't have now
+  #twitter_username: agoryu15  # Leave blank if you don't have now
+  bluesky_username: agoryu
+  email: elliot.vanegue@gmail.com  # Leave blank if you don't have now
   itch_username: agoryu
   #cv: /static/assets/doc/cv.pdf #http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
