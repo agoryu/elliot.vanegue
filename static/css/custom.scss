@@ -1,11 +1,11 @@
 ---
 
 ---
-@use "search";
-@use "pygments";
-@use "open_sans";
-@use "roboto";
-@use "style";
+@import "search";
+@import "pygments";
+@import "open_sans";
+@import "roboto";
+@import "style";
 
 .landing-page .navbar-default .nav li a {
   color: black;
